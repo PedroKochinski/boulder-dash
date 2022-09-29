@@ -1,0 +1,1 @@
+Para realizar o easter egg, é necessário digitar o código 'puft' sem aspas. Ele 
